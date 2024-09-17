@@ -1,2 +1,2 @@
 @echo off
-start cmd /k python dungeonhack.py
+start cmd /k python something.py
